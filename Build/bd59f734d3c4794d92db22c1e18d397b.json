@@ -1,0 +1,15 @@
+{
+"companyName": "Super Mix Games",
+"productName": "Craft Boy Runner Game",
+"productVersion": "1.0",
+"dataUrl": "1e011003d2829ee02faf88cf67f4f9b8.unityweb",
+"wasmCodeUrl": "3c2041700fb9b815f5597627d6a1cc84.unityweb",
+"wasmFrameworkUrl": "ac18ac977df034ce37af83dd758d88c6.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}
